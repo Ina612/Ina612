@@ -39,5 +39,5 @@ src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWczMDM3bWRka3M2MGg1ZjNp
 
 **VK:** @planet_612
 
-**Behance:** @elinhenrik
+**Behance:** [@elinhenrik](https://www.behance.net/elinhenrik)
 <p align="right"> <img src="https://media3.giphy.com/media/EorFtyTgaJtvQmG0aG/giphy.gif?cid=ecf05e47mi1nprnuuo66tzdgue9ys324w5bvgzp7dmc8fc7a&ep=v1_gifs_related&rid=giphy.gif&ct=s" height="100"></p>
