@@ -13,7 +13,8 @@ I don't yet have any spectacular achievements, but I'm going there through all t
 
 <h2> Who am I? </h2>
 
-- Here's my [portfolio links](https://www.figma.com/proto/btlZBbSRts0T7hBAqyD6Th/Untitled?node-id=1-2&mode=design&t=DZyLOxtP5XMpuQa8-1) and [Notion CV](https://charming-beryllium-a1c.notion.site/CV-Zarina-Shagieva-ed5eb9d047424d29956667a9d8a50884?pvs=4)
+- Here's my [portfolio links](https://www.figma.com/proto/btlZBbSRts0T7hBAqyD6Th/Untitled?node-id=1-2&mode=design&t=DZyLOxtP5XMpuQa8-1)
+- СV [in English](https://charming-beryllium-a1c.notion.site/CV-Zarina-Shagieva-ed5eb9d047424d29956667a9d8a50884?pvs=4) and [in Russian](https://charming-beryllium-a1c.notion.site/CV-12fdcce5a00a4e9d860adaa353382fd6?pvs=4)
 - My Tableau [profile](https://public.tableau.com/app/profile/zarina.shagieva)
 
 I have esucation in Amercan Studies, English Translation and Teaching, PR and advertisement. 
